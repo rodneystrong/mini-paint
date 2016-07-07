@@ -12,4 +12,9 @@ $(document).ready(function() {
       $(this).removeClass('white');
     });
 
+    //reset button
+    $('#reset').click(function() {
+      theBox.removeClass('white');
+    });
+
 });
