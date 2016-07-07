@@ -8,4 +8,8 @@ $(document).ready(function() {
       $(this).addClass('white');
     });
 
+    theBox.dblclick(function() {
+      $(this).removeClass('white');
+    });
+
 });
