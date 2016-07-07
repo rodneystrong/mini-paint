@@ -17,4 +17,14 @@ $(document).ready(function() {
       theBox.removeClass('white');
     });
 
+    //make all the color buttons work
+    //creating our default color var
+    var color = 'white';
+
+    //code a solution so you don't have to hard-code all the colors
+    //prob put a class on all color buttons
+    //then loop through the classes for another class when a button is clicked
+
+
+
 });
