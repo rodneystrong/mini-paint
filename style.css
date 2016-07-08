@@ -29,6 +29,10 @@ div div {
   cursor: pointer;
 }
 
+.color-button {
+  cursor: pointer;
+}
+
 .white {
   background: #fff;
 }
